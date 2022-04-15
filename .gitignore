@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+**/__pycache__/
+**/config/
+**/data/
+**/logs/
+**/bin/
+.idea
+.venv
+.task_plan
+/venv/

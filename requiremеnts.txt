@@ -1,0 +1,6 @@
+requests
+os
+json
+configparser
+time
+tqdm
